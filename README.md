@@ -1,4 +1,4 @@
 # CRUD-PYTHON
-CRUD en python 
+CRUD en pytho, donde creamos archivos CSV y podemos modificar, crear y borrar datos de los mismos
 
 
